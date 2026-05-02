@@ -479,27 +479,6 @@ Test with images of:
 
 ---
 
-## Support & Contact
-
-For issues or queries:
-- Check the troubleshooting section above
-- Review the code documentation
-- Check Viva Q&A document for common questions
-
----
-
-## Project Submission Checklist
-
-✅ Complete working application
-✅ All code files with comments
-✅ Database schema with sample data
-✅ System architecture documentation
-✅ API documentation
-✅ README with installation steps
-✅ Project report (6 chapters)
-✅ ER diagram with explanation
-✅ Viva questions and answers
-✅ Sample test data included
 
 ---
 
@@ -508,8 +487,3 @@ For issues or queries:
 This project is submitted for academic evaluation as part of the TYBSc Computer Science curriculum at Tilak College of Science and Commerce, Mumbai University.
 
 ---
-
-**Last Updated**: January 7, 2026
-**Status**: FINAL - READY FOR SUBMISSION
-
-For evaluation and feedback, please refer to the comprehensive documentation provided in the `documentation/` folder.
